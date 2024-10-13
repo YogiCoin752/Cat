@@ -1,6 +1,6 @@
 #!/bin/bash
 
-H="192.168.2.104"
+H="192.168.2.158"
 randomPort=4443
 P=$randomPort
 
